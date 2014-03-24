@@ -74,7 +74,7 @@ class CJGetCommissionCommand extends CConsoleCommand {
 				}
 			}
 		}
-		 mail("zeeshan.zd@nxvt.com","Cron Tab","Cron Tab Chal gai...of CJ".date("Y-m-d H:i:s"));
+		 mail("adnan@nxvt.com","Cron Tab","Cron Tab Chal gai...of CJ".date("Y-m-d H:i:s"));
 	}
 	
 	function objectToArray($d) {

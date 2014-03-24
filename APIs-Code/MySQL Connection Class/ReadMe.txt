@@ -1,0 +1,1 @@
+This class is used to handle MySQL database connection and all operations handling. This class is helpful in a way that it also dumps the fatal errors occured against any database connection activity. You only need to set the error log file location in a global constant and set the page name on each php page to log the activity against that in the error logs.
