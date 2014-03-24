@@ -1,0 +1,1 @@
+This is basically a medical lead management system which takes medical leads data from a marketing company in csv format, convert it into XML format and pass on the server using CURL.

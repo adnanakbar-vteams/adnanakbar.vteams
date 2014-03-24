@@ -1,0 +1,1 @@
+This API was designed for our IPhone application which took data from web and our webapplication which took some other infromation from IPhone. The code is in 

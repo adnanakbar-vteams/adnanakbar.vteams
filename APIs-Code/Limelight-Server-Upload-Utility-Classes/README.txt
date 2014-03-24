@@ -1,0 +1,1 @@
+These codes help us upload/download files (video or any other formats) to a CDN like LimeLight or S3.
